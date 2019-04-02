@@ -10,7 +10,7 @@ int main()
 	MyString s1 = "Braden";
 	MyString s2 = "Thompson";
 	MyString s3 = s2;
-	//MyString s4 = (s1 == s2);
+	//MyString s4 = (s1 == s2); 
 	MyString s5 = s1 + s2;
 	MyString s6, s7;
 

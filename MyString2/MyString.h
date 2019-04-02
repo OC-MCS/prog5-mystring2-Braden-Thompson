@@ -15,7 +15,7 @@ public:
 	~MyString(); // deconstructor
 	MyString(const MyString&); // copy constructor
 	MyString operator=(const MyString&); // overloaded assignment operator
-	MyString operator+(const MyString&); // overloaded + operator for string cat
+	MyString operator+(const MyString&); // overloaded + operator for string cat 
 	const char* string()const; // getter function
 	bool operator == (const MyString&); // overloaded == operator
 };
